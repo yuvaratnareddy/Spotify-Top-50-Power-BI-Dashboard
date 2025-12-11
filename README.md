@@ -1,9 +1,4 @@
-Got it! Here is a **large, detailed, professional, high-quality README.md** for your **Spotify Power BI Dashboard** — perfect for GitHub, portfolio, and LinkedIn.
-This is an upgraded “premium” version with complete documentation, deep insights, and structured formatting.
-
----
-
-# 🎧 Spotify Top 50 – Power BI Analytics Dashboard
+#🎧 Spotify Top 50 – Power BI Analytics Dashboard
 
 *Advanced Music Analytics • Audio Feature Insights • Artist & Genre Trends*
 
